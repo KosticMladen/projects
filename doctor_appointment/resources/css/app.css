@@ -1,0 +1,17 @@
+/* .navbar {
+    background-color: rgb(230, 230, 98)!important;
+} */
+
+#logo {
+    -webkit-transition: color 0.3s;
+    -moz-transition:    color 0.3s;
+    -ms-transition:     color 0.3s;
+    -o-transition:      color 0.3s;
+    transition:         color 0.3s;
+}
+
+#logo:hover {
+
+    color: #1976D2;
+
+}

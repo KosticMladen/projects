@@ -1,0 +1,8 @@
+.timeLeftAlign td {
+    text-align: left;
+}
+
+.timeLeftAlign input {
+    display: inline-block;
+    width: 3rem;
+}
